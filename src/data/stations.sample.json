@@ -1,0 +1,5 @@
+[
+  { "id": "kpk_001", "name": "Peshawar", "lat": 34.0151, "lon": 71.5249, "meanSpeed": 4.8, "prevailingDeg": 250, "forecast": [4.9, 5.1, 5.0, 4.7, 4.6, 4.8] },
+  { "id": "kpk_002", "name": "Mardan", "lat": 34.1986, "lon": 72.0404, "meanSpeed": 4.1, "prevailingDeg": 220, "forecast": [4.2, 4.4, 4.1, 3.9, 4.0, 4.1] },
+  { "id": "kpk_003", "name": "Swat", "lat": 34.7717, "lon": 72.3607, "meanSpeed": 5.6, "prevailingDeg": 270, "forecast": [5.7, 5.9, 5.8, 5.5, 5.4, 5.6] }
+]
